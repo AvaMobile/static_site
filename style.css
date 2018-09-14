@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Users/yutani/codefellows/401/android/AvaServer/src/main/resources/public/img/bg_ava_droid.png);
+    background-image: url(img/bg_ava_droid.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
